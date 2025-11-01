@@ -1,3 +1,5 @@
+<img width="548" height="245" alt="image" src="https://github.com/user-attachments/assets/62a65239-8ebe-4b4b-9773-e32e41e0e286" />
+
 # 🚀 GHL → n8n → Vapi Automation Workflow
 
 Automate your lead follow-up process by connecting **Go High Level (GHL)**, **n8n**, and **Vapi**.  
